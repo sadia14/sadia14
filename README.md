@@ -52,5 +52,5 @@ reason over complex visual data, and produce **structured, clinically useful out
 
 ## 🔗 Links
 - GitHub: https://github.com/sadia14  
-- LinkedIn: (add link)  
-- Google Scholar: (add link)
+- LinkedIn: https://www.linkedin.com/in/sadia14/  
+- Google Scholar: https://scholar.google.com/citations?user=3CAWF1IAAAAJ&hl=en&oi=ao
